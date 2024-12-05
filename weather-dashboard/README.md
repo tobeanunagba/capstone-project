@@ -29,4 +29,4 @@ The Weather Dashboard is a web application that allows users to check the curren
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone 
